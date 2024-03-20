@@ -7,3 +7,6 @@ Exploration of Machine Learning methods to improve classical searches in Particl
 
 # Goal
 Replace existing cuts in analysis by a Machine Learning model, in order to try to optimize the ratio of signals to backgrounds and the final number of signals.
+
+The cuts from the analysis obtain a **signal to background ratio of 7.69** while retrieving about 827 signals, which corresponds to a **true positive percentage of 0.407**.  
+We want to obtain a ML model which can yield a higher signal to background ratio while retrieving at least the same number of signals.

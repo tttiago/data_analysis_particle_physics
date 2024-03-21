@@ -23,6 +23,6 @@ A Boosted Decision Tree was able to achieve a mean cross-validation true positiv
 
 Adjusting the threshold of the Decision Tree, it was possible to obtain a better precision and recall than the original cuts in the test set, as shown in the Precision-Recall curve and Confusion Matrix below.
 
-![Precision-Recall curve](./figs/dt_prec_rec_curve.png)
+<img src="./figs/dt_prec_rec_curve.png" width=500 alt="Precision-Recall Curve">
 
 ![Confusion Matrix](./figs/dt_confusion_matrix.png)

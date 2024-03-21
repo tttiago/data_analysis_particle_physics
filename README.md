@@ -13,4 +13,8 @@ We want to obtain a ML model which can yield a higher signal to background ratio
 
 # Models tried
 
-A Decision Tree was able to achieve a mean cross-validation signal to background ratio of 0.388 and a precision of 0.902. So, better precision but worse true positives.
+A Decision Tree was able to achieve a mean cross-validation true positive percentage of 0.388 and a precision of 0.902. So, better precision but worse true positives.
+
+A Random Forest was able to achieve a mean cross-validation true positive percentage of 0.408 and a precision of 0.870. So, worse precision but slightly better true positives.
+
+A Boosted Decision Tree was able to achieve a mean cross-validation true positive percentage of 0.483 and a precision of 0.864. So, worse precision but much better true positives.

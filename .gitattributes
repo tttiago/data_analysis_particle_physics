@@ -3,3 +3,4 @@
 /csvs_removed_cuts/llll_NC.csv filter=lfs diff=lfs merge=lfs -text
 data/df_mc.pkl filter=lfs diff=lfs merge=lfs -text
 data/df_removed_cuts.pkl filter=lfs diff=lfs merge=lfs -text
+data/train_xs.pkl filter=lfs diff=lfs merge=lfs -text
